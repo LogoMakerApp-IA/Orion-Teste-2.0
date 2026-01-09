@@ -1,0 +1,9 @@
+{
+  "name": "ORION - Cognitive Interface",
+  "description": "A next-generation intelligent personal assistant designed as an operational entity. ORION observes context, manages device state, and provides a living, organic interface for interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
